@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mehmetakifcolak
+- 👀 I’m interested in aws
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on me
+- 📫 How to reach me from her
